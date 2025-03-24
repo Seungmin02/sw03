@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<Style>
+body{background-color:yellow;}
+li { line-height: 1.5em; }
+li::marker { color: red; }
+</Style>
+<meta charset="UTF-8">
+<title>
+웹프로그래밍
+</title>
+</head>
+<body>
+<h2>2126988 이승민이 개설한 서버홈페이지 home::)</h2>
+<ul>
+<li><a href="/ex01">예제1</a>
+<li><a href="/ex02">예제2</a>
+<li><a href="/ex03">예제3</a>
+<li><a href="/ex04">예제4</a>
+</ul>
+</body>
+</html>
